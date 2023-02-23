@@ -1,2 +1,3 @@
 # Landing_Page
-#Open Using Laptop via Google chrome
+#Open Using Laptop OR PC
+#None Responsive page
