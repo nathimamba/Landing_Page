@@ -4,6 +4,13 @@
     border: 2 solid red;
 }
 
+body {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
 .navbar {
     background-color: #1F2937;
     height: 350px;
