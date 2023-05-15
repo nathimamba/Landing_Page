@@ -5,7 +5,7 @@ Landing Page is a project drom the Odin Project [curriculum](https://www.theodin
 
 **Live preview** of my project [here](https://nathimamba.github.io/Landing_Page/)
 
-### Outcome of this project
+### Outcome of this project: ###
 * Understanding of structuring elemnts 
 * position of elements 
 * how html elemnts are and colors 
